@@ -1,0 +1,2 @@
+# SegmentTree
+SegmentTree для школы
